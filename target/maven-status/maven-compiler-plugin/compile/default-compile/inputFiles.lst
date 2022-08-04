@@ -1,0 +1,14 @@
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\web\controllers\LoginController.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\app\services\LoginService.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\app\services\BookService.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\web\config\WebContextConfig.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\app\exceptions\BookShelfLoginException.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\app\services\BookRepository.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\web\dto\LoginForm.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\web\controllers\ErrorController.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\app\services\IdProvider.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\web\dto\Book.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\WebAppInitializer.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\web\dto\BookIdToRemove.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\web\controllers\BookShelfController.java
+D:\Users\Nurs_Nurgeldi\IdeaProjects\springboot_rest\simple_mvc\src\main\java\org\example\app\services\ProjectRepository.java
